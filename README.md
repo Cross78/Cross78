@@ -1,17 +1,20 @@
 # Hi! I'm Cross
-🖥️ I'm a discord bot developer, who have 2 years experience
+🖥️ I'm a discord bot developer, who have 4 years experience
 
 ![cross](https://komarev.com/ghpvc/?username=Cross&color=dc143c)
 
 # About me
-I'm almost 16 years old a junior developer. I love coding and game videos. I have 2 years experience and I'm doing this for fun.
+I'm almost 18 years old a developer. I like coding and game videos. I have 4 years experience and I'm doing this for fun.
 
 ## 🌐 Techs & Langs🌐
 #### Langs
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![HTML](https://img.shields.io/badge/CSS-264de4?style=for-the-badge&logo=css3&logoColor=white)
-
+![CSS](https://img.shields.io/badge/CSS-264de4?style=for-the-badge&logo=css3&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 #### Frameworks & Database
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
