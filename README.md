@@ -1,10 +1,10 @@
 # Hi! I'm Cross
-🖥️ I'm a discord bot developer, who have 4 years experience
+🖥️ I'm a discord bot developer, who have 4+ years experience
 
 ![cross](https://komarev.com/ghpvc/?username=Cross&color=dc143c)
 
 # About me
-I'm almost 18 years old a developer. I like coding and game videos. I have 4 years experience and I'm doing this for fun.
+I'm almost 19 years old a developer. I like coding and game videos. I have 4+ years experience and I'm doing this for fun.
 
 ## 🌐 Techs & Langs🌐
 #### Langs
@@ -22,9 +22,9 @@ I'm almost 18 years old a developer. I like coding and game videos. I have 4 yea
 ### Social
 If you want talk to me, you can contact me on discord.
 
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/994679250483425310)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/641256228101554188)
 
 <br>
-<div align="center"><a href="https://github.com/CrossC5" title="Cross Github"><img src="https://github-readme-stats.vercel.app/api?username=CrossC5&count_private=true&show_icons=trueline_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite"></a></div>	 
-<div align="center"><a href="https://github.com/CrossC5"><img width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrossC5&count_private=true&theme=radical" alt="Must" /></a></div>
+<div align="center"><a href="https://github.com/Cross78" title="Cross Github"><img src="https://github-readme-stats.vercel.app/api?username=Cross78&count_private=true&show_icons=trueline_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite"></a></div>	 
+<div align="center"><a href="https://github.com/Cross78"><img width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cross78&count_private=true&theme=radical" alt="Must" /></a></div>
 
